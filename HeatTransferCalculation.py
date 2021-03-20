@@ -85,5 +85,3 @@ class Heatcal:
 
             self.drawdata.append(Told[1][1][1])
             self.time.append(t)
-
-            '''is this change?'''
