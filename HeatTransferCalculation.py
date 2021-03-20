@@ -85,3 +85,6 @@ class Heatcal:
 
             self.drawdata.append(Told[1][1][1])
             self.time.append(t)
+
+
+            '''发生了什么？？？？？？'''
